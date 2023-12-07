@@ -13,14 +13,9 @@ CSDL data được lưu ở đâu?,Table
 Công việc thường gặp khi xử lí thông tin của một tổ chức là gì?,Tạo lập, cập nhật, khai thác hồ sơ
 Em hiểu như thế nào về cụm từ  “Hệ quản trị cơ sở dữ liệu”?,Hệ quản trị cơ sở dữ liệu là một loại phần mềm máy tính
 Cơ sở dữ liệu (CSDL) là:,Tập hợp dữ liệu có liên quan với nhau theo một chủ đề nào đó được lưu trên máy tính điện tử để đáp ứng nhu cầu khai thác thông tin của nhiều người.
-Hoạt động nào sau đây có sử dụng CSDL?
-1. Bán vé máy bay
-2. Bán hàng có quy mô
-3. Quản lý học sinh trong nhà trường
+Hoạt động nào sau đây có sử dụng CSDL?, Bán vé máy bay
 Hãy nêu các ưu điểm khi sử dụng CSDL trên máy tính điện tử:,Gọn, thời sự, nhanh chóng, nhiều nguời có thể sử dụng chung CSDL
-Khai thác hồ sơ gồm có những việc chính nào?
-1. Sắp xếp, tìm kiếm
-2. Thống kê, lập báo cáo
+Khai thác hồ sơ gồm có những việc chính nào?,Sắp xếp, tìm kiếm
 Xét tệp lưu trữ hồ sơ học bạ của học sinh, trong đó lưu trữ điểm tổng kết của các môn Văn, Toán, Lí, Sinh, Sử, Địa. Những việc nào sau đây không thuộc thao tác tìm kiếm?,Tìm học sinh có điểm trung bình sáu môn cao nhất
 Những khẳng định nào sau đây là sai?,Tìm kiếm là việc tra cứu các thông tin không có sẵn trong hồ sơ thỏa mãn một số điều kiện nào đó
 Một hệ quản trị CSDL không có chức năng nào trong các chức năng dưới đây?,Cung cấp công cụ quản lí bộ nhớ
@@ -29,9 +24,7 @@ Ngôn ngữ định nghĩa dữ liệu bao gồm các lệnh cho phép:,Khai bá
 Ngôn ngữ CSDL được sử dụng phổ biến hiện nay là:,Access
 Khẳng định nào sau đây là đúng?,Hệ QT CSDL hoạt động độc lập, không phụ thuộc vào hệ điều hành
 Công việc nào không thuộc bước THIẾT KẾ khi xây dựng một CSDL?,Xác định các dữ liệu cần lưu trữ, phân tích mối liên hệ giữa chúng;
-Những điều khẳng định nào sau đây là SAI?
-1. Hệ QT CSDL hoạt động độc lập, không phụ thuộc vào hệ điều hành;
-2. Hệ QT CSDL đóng vai trò là chương trình dịch cho ngôn ngữ CSDL;
+Những điều khẳng định nào sau đây là SAI?,Hệ QT CSDL hoạt động độc lập, không phụ thuộc vào hệ điều hành;
 NHỮNG NGƯỜI CÓ NHU CẦU KHAI THÁC THÔNG TIN TỪ CSDL ĐƯỢC GỌI LÀ...,Người dùng
 NHỮNG NGƯỜI CÓ NHIỆM VỤ XÂY DỰNG CÁC CHƯƠNG TRÌNH ỨNG DỤNG HỖ TRỢ KHAI THÁC THÔNG TIN TỪ CSDL TRÊN CƠ SỞ CÁC CÔNG CỤ MÀ HỆ QTCSDL CUNG CẤP ĐƯỢC GỌI LÀ...,Người lập trình ứng dụng
 NHỮNG NGƯỜI ĐƯỢC TRAO QUYỀN ĐIỀU HÀNH HỆ CSDL ĐƯỢC GỌI LÀ...,Người quản trị CSDL
